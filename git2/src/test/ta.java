@@ -8,6 +8,7 @@ public class ta {
 	int s=0;
 	int aa = 1;
 	int bb = 2;
+	int ab=aa+bb;
 	public static void main(String[] args) {
 		
 		
